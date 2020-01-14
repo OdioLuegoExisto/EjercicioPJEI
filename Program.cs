@@ -17,6 +17,9 @@ namespace Ejercicio_Antonio
 
             Console.WriteLine("Que te pireh");
 
+            Console.WriteLine("marina comeme los cojones");
+
+
             Console.ReadLine();
 
         }
