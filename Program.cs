@@ -15,7 +15,7 @@ namespace Ejercicio_Antonio
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hola soy una bella princesa en busca del amor");
+            Console.WriteLine("Hola, fran eres un puto");
 
             Console.ReadLine();
 
