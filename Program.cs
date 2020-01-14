@@ -15,7 +15,7 @@ namespace Ejercicio_Antonio
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hola, fran eres un puto");
+            Console.WriteLine("marina comeme los cojones");
 
             Console.ReadLine();
 
